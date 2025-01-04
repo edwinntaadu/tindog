@@ -23,7 +23,6 @@
 - **HTML5**: Structure and content.
 - **CSS3**: Custom styles and layout.
 - **Bootstrap 5**: Responsive grid system and components.
-- **JavaScript**: Interactive features (optional, for enhancements).
 
 ## Getting Started
 
